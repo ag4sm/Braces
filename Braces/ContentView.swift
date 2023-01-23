@@ -17,12 +17,15 @@ struct ContentView: View {
             VStack {
                 Text("Can I eat with my braces?")
                     .bold()
+                    .padding()
                     .font(.largeTitle)
                     .multilineTextAlignment(.center)
+                struct Foods: Identifiable {
+                    
+                }
+                
             }
             Spacer()
-            .padding()
-            
         }
         .foregroundColor(.white)
     }
