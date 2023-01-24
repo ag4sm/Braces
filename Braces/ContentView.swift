@@ -33,11 +33,11 @@ struct ContentView: View {
                     .padding()
                     .font(.largeTitle)
                     .multilineTextAlignment(.center)
-
                 List(foods) {
                     Text($0.name)
                         .foregroundColor(.black)
                 }
+                .padding()
             }
             Spacer()
         }
