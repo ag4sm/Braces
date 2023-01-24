@@ -14,6 +14,8 @@ struct Food: Identifiable {
 
 private var foods = [
     Food(name: "Candy"),
+    Food(name: "Gum"),
+    Food(name: "Meat"),
     Food(name: "Nuts"),
     Food(name: "Vegetables"),
     Food(name: "Bread"),
