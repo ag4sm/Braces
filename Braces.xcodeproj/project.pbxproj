@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4ADC70C82986080D00ACBF48 /* FoodDict.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ADC70C72986080D00ACBF48 /* FoodDict.swift */; };
 		4AE4F8FF297DBFBD00EC5FBD /* BracesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4F8FE297DBFBD00EC5FBD /* BracesApp.swift */; };
 		4AE4F901297DBFBD00EC5FBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE4F900297DBFBD00EC5FBD /* ContentView.swift */; };
 		4AE4F903297DBFBE00EC5FBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AE4F902297DBFBE00EC5FBD /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4ADC70C72986080D00ACBF48 /* FoodDict.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDict.swift; sourceTree = "<group>"; };
 		4AE4F8FB297DBFBD00EC5FBD /* Braces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Braces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AE4F8FE297DBFBD00EC5FBD /* BracesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BracesApp.swift; sourceTree = "<group>"; };
 		4AE4F900297DBFBD00EC5FBD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				4AE4F8FE297DBFBD00EC5FBD /* BracesApp.swift */,
 				4AE4F900297DBFBD00EC5FBD /* ContentView.swift */,
+				4ADC70C72986080D00ACBF48 /* FoodDict.swift */,
 				4AE4F902297DBFBE00EC5FBD /* Assets.xcassets */,
 				4AE4F904297DBFBE00EC5FBD /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4ADC70C82986080D00ACBF48 /* FoodDict.swift in Sources */,
 				4AE4F901297DBFBD00EC5FBD /* ContentView.swift in Sources */,
 				4AE4F8FF297DBFBD00EC5FBD /* BracesApp.swift in Sources */,
 			);
